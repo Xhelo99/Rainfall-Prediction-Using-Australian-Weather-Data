@@ -25,4 +25,3 @@ The dataset is sourced from the [Australian Bureau of Meteorology](http://www.bo
 ## 📁 Files
 
 - `FinalProject_AUSWeather.ipynb` — Main notebook
-- `requirements.txt` — Required Python packages
